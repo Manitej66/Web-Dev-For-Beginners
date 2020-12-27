@@ -43,8 +43,8 @@ Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 24-lesson cur
 
 [JavaScript Closures, DOM manipulation](/3-terrarium/3-intro-to-DOM-and-closures/README.md)
 
-[Event-Driven Programming](4-typing-game/typing-game/README.md)
+[Event-Driven Programming](/4-typing-game/typing-game/README.md)
 
-[About Browsers](https://github.com/microsoft/Web-Dev-For-Beginners/blob/main/5-browser-extension/1-about-browsers/README.md)
+[About Browsers](/5-browser-extension/1-about-browsers/README.md)
 
-[APIs, Forms, and Local Storage](https://github.com/microsoft/Web-Dev-For-Beginners/blob/main/5-browser-extension/2-forms-browsers-local-storage/README.md)
+[APIs, Forms, and Local Storage](/5-browser-extension/2-forms-browsers-local-storage/README.md)
